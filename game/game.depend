@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1626584433 source:d:\考研\新建文件夹\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1626584550 d:\考研\新建文件夹\game\include\game.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1626584480 source:d:\考研\新建文件夹\game\game.c
+	"game.h"
+
+1626344082 source:d:\考研\新建文件夹\game\src\game.cpp
+	"game.h"
+
