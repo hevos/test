@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1626340575 source:d:\考研\新建文件夹\test\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"game.h"
+	<stdlib.h>
+
+1625395894 source:d:\考研\新建文件夹\test\test2.c
+
+1626260080 source:d:\考研\新建文件夹\test\src\game.cpp
+	"game.h"
+
+1626341355 d:\考研\新建文件夹\test\include\game.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1626341330 source:d:\考研\新建文件夹\test\game.c
+	"game.h"
+
