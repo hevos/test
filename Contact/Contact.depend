@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1627872361 source:d:\考研\新建文件夹\contact\main.c
+	<stdlib.h>
+	"Contact.h"
+
+1627872361 d:\考研\新建文件夹\contact\contact.h
+	<stdio.h>
+	<string.h>
+
+1627872623 source:d:\考研\新建文件夹\contact\test.c
+	"Contact.h"
+	<stdlib.h>
+
