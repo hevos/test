@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1628046162 source:d:\考研\新建文件夹\contact_dynamic\main.c
+	<stdlib.h>
+	"Contact_Dynamic.h"
+
+1628046152 d:\考研\新建文件夹\contact_dynamic\contact_dynamic.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1628067560 source:d:\考研\新建文件夹\contact_dynamic\test.c
+	"Contact_Dynamic.h"
+	<stdlib.h>
+
