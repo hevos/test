@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631758067 source:d:\考研\新建文件夹\slist\test.c
+	"SList.h"
+
+1631758069 d:\考研\新建文件夹\slist\slist.h
+	<stdio.h>
+	<stdlib.h>
+
+1631757177 source:d:\考研\新建文件夹\slist\main.c
+	"SList.h"
+
