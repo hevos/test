@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631587102 source:d:\考研\新建文件夹\seqlist\main.c
+	"SeqList.h"
+
+1631586891 d:\考研\新建文件夹\seqlist\seqlist.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1631586421 source:d:\考研\新建文件夹\seqlist\test.c
+	"SeqList.h"
+
