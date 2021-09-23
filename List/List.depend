@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632280731 source:d:\考研\新建文件夹\list\main.c
+	"List.h"
+
+1632280613 d:\考研\新建文件夹\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1632280613 source:d:\考研\新建文件夹\list\test.c
+	"List.h"
+
